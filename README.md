@@ -1,11 +1,11 @@
 # Categorising-Vendor-Invoices
 
-The task is to categorise the vendor invoices in a logo dictionary based on the logo present in them. 
+The task is to categorise the vendor invoices in a logo dictionary based on the logo present in them. \
 This task has been achieved by using the OpenCV library.
 
-The file structure of the project is as follows:
+The file structure of the project is as follows:\
 
-Invoice Categorization
+Invoice Categorization \
 | 
 |-- bin
 	|
