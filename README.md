@@ -8,11 +8,11 @@ The file structure of the project is as follows:
 Invoice Categorization <br />
 | 
 |-- bin <br />
-&nbsp	|
-&nbsp	|-- Invoice Image <br />
-&nbsp		|
-&nbsp		|-- **Invoice Images** <br />
-&nbsp	|
+&nbsp;	|
+&nbsp;	|-- Invoice Image <br />
+&nbsp;		|
+&nbsp;		|-- **Invoice Images** <br />
+&nbsp;	|
 	|-- Logo
 		|
 		|-- **Template Logos** <br />
