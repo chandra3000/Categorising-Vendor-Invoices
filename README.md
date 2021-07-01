@@ -6,20 +6,20 @@ This task has been achieved by using the OpenCV library.
 The file structure of the project is as follows:
 
 Invoice Categorization <br />
-| 
+| <br />
 |-- bin <br />
-&nbsp;	|
-&nbsp;	|-- Invoice Image <br />
-&nbsp;		|
-&nbsp;		|-- **Invoice Images** <br />
-&nbsp;	|
-	|-- Logo
-		|
-		|-- **Template Logos** <br />
-	|
-	|-- main.py <br />
-| 
-|-- README.txt  
+&nbsp; &nbsp; &nbsp; &nbsp;| <br />
+&nbsp; &nbsp; &nbsp; &nbsp;|-- Invoice Image <br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- **Invoice Images** <br />
+&nbsp;&nbsp;&nbsp;&nbsp;| <br />
+&nbsp;&nbsp;&nbsp;&nbsp;|-- Logo <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- **Template Logos** <br />
+&nbsp;&nbsp;&nbsp;&nbsp;| <br />
+&nbsp;&nbsp;&nbsp;&nbsp;|-- main.py <br />
+| <br />
+|-- README.txt <br />  
 
 The datasets and the source code is present in the 'bin' directory.
 
