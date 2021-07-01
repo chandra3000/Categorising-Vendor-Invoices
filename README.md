@@ -11,13 +11,13 @@ Invoice Categorization <br />
 &nbsp; &nbsp; &nbsp; &nbsp;| <br />
 &nbsp; &nbsp; &nbsp; &nbsp;|-- Invoice Image <br />
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- **Invoice Images** <br />
-&nbsp;&nbsp;&nbsp;&nbsp;| <br />
-&nbsp;&nbsp;&nbsp;&nbsp;|-- Logo <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- **Template Logos** <br />
-&nbsp;&nbsp;&nbsp;&nbsp;| <br />
-&nbsp;&nbsp;&nbsp;&nbsp;|-- main.py <br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|-- **Invoice Images** <br />
+&nbsp; &nbsp; &nbsp; &nbsp;| <br />
+&nbsp; &nbsp; &nbsp; &nbsp;|-- Logo <br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| <br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|-- **Template Logos** <br />
+&nbsp; &nbsp; &nbsp; &nbsp;| <br />
+&nbsp; &nbsp; &nbsp; &nbsp;|-- main.py <br />
 | <br />
 |-- README.txt <br />  
 
