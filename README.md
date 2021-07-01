@@ -5,19 +5,19 @@ This task has been achieved by using the OpenCV library.
 
 The file structure of the project is as follows:\
 
-Invoice Categorization \
+Invoice Categorization <br />
 | 
-|-- bin
+|-- bin <br />
 	|
-	|-- Invoice Image
+	|-- Invoice Image <br />
 		|
-		|-- **Invoice Images**
+		|-- **Invoice Images** <br />
 	|
 	|-- Logo
 		|
-		|-- **Template Logos**
+		|-- **Template Logos** <br />
 	|
-	|-- main.py
+	|-- main.py <br />
 | 
 |-- README.txt  
 
