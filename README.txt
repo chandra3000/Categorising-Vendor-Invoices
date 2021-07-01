@@ -1,7 +1,7 @@
 # Categorising-Vendor-Invoices
 
-The invoice documents are categorised in a logo dictionary based on the logo present in the them.
-The logo in the invoice documents can be found and matched using the methods found in Opencv library.
+The task is to categorise the vendor invoices in a logo dictionary based on the logo present in them. 
+This task has been achieved by using the OpenCV library.
 
 The file structure of the project is as follows:
 
