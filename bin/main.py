@@ -76,6 +76,12 @@ for tempInvoice in invoices:
         
         #Matching the cropped invoice image and the template logo 
         flann = cv.FlannBasedMatcher(index_params, search_params)
+        
+        #Check if the descriptors are of NoneType, if they are of NoneType continue.
+        if isinstance(desc_1, type(None)) or isinstance(desc_2, type(None)):
+            continue
+
+        
         #The matches found beween both the images are stored in the 'matches' list. 
         matches = flann.knnMatch(desc_1, desc_2, 2)
         
